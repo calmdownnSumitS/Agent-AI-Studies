@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+Notebook/memory.db
+Notebook/memory.db-shm
+Notebook/memory.db-wal
+Notebook/twin/.gradio/
