@@ -3,6 +3,7 @@ name = "agent-ai-studies"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
+    "ddgs>=9.15.0",
     "gradio>=6.22.0",
     "ipython>=9.16.1",
     "litellm>=1.95.0",
